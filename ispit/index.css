@@ -7,3 +7,21 @@ body {
 p {
   text-align: justify;
 }
+
+#p1 {
+  color: red;
+  font-style: oblique;
+  font-size: x-large;
+}
+
+#p2 {
+  color: yellow;
+  font-style: italic;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+#EVH {
+  width: 350px;
+  length: 350px;
+}
